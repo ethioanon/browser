@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<title>tariku cd library</title>
+<body>
+
+
+<frameset rows="150,*" frameborder="NO" border="0" framespacing="0">
+  
+<frame src="top.htm" name="top" scrolling="no" noresize >
+ 
+<frame src="main.htm" name="main">
+
+</frameset>
+
+<noframes>
+
+
+
+</body>
+
+</body></noframes>
+</html>
